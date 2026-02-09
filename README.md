@@ -1,8 +1,8 @@
-# 👋 DigitalLawrence
+# 👋 James Lawrence
 
-**Product Leader · CTO · Renaissance Technologist**
+**Forward Deployed Engineer · AI Architect · Technical Founder**
 
-Building products that scale and markets that move. From Web2 SaaS to Web3 protocols to AI systems - now expanding into manufacturing and emerging industries.
+Building enterprise-grade AI agents, scalable infrastructure, and developer tools. Specializing in deploying large language models (LLMs) to production and bridging the gap between complex engineering and business value.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/digitallawrence?style=social)](https://x.com/digitallawrence)
 [![GitHub followers](https://img.shields.io/github/followers/dlhugly?style=social)](https://github.com/dlhugly)
@@ -11,94 +11,70 @@ Building products that scale and markets that move. From Web2 SaaS to Web3 proto
 
 ## 🎯 What I Build
 
-**Strykr.AI** - CEO & CTO  
-AI-powered financial analytics platform. 30,000+ traders. Real-time market intelligence.
+**Strykr.AI** - CTO & Co-Founder  
+Enterprise financial intelligence platform serving 170,000+ users. Built multi-agent systems using Anthropic Claude & OpenAI to process real-time market data.
 
-**Magnify Cash** - Founder  
-DeFi lending protocol. 40,000+ users. 2× Hackathon winner. Worldchain grant recipient.
+**ClawdGuard** - Lead Architect  
+Security-hardened deployment framework for AI agents. "Shodan-proof" network topology, identity management, and secure infrastructure for autonomous systems.
 
-**SocialPass** - Co-creator  
-Web3 ticketing with Pudgy Penguins. 5,000+ attendees onboarded.
-
-**NFTY Token** - Co-founder  
-$400M FDV on Binance Smart Chain. Deep NFT ecosystem involvement.
+**ai-pdf-builder** - Co-Author  
+Open-source TypeScript library for AI-powered document generation. Programmatic PDF creation using LLMs.
 
 **AgentPayy** - Creator  
-Open-source AI agent payment framework. Agent-native monetization infrastructure.
+Agent-native payment framework allowing AI systems to autonomously transact.
 
-**Coinbase x402** - Contributor  
-Contributing to Coinbase's official payments protocol.
+**SocialPass** - Lead Architect  
+High-scale event identity platform handling 5,000+ attendees. Integrated real-time asset verification with seamless user onboarding.
+
+---
+
+## 🛠️ Technical Stack
+
+**AI & Agents**: Anthropic Claude (MCP) · OpenAI GPT-4 · RAG · LangChain · Vector DBs  
+**Languages**: Python (FastAPI) · TypeScript (Node.js, React) · Rust · Go  
+**Infrastructure**: Docker · Kubernetes · Railway · Vercel · AWS · Terraform  
+**Security**: OAuth2 · HMAC-SHA256 · Row Level Security (RLS) · Prompt Injection Mitigation  
 
 ---
 
 ## 💼 Track Record
 
 ```
-7 years          building across industries
+7 years          shipping production software
+170,000+ users   served on Strykr AI platform
 38+ repos        across 18+ organizations
-60,000+ users    served across platforms
-$400M+ FDV       value created (NFTY Token)
-25+ countries    global network connections
+$400M+ value     processed in previous fintech protocols
+Global           experience deploying systems across 25+ countries
 ```
-
----
-
-## 🛠️ Technical Stack
-
-**Languages**: TypeScript · Python · Solidity · Rust  
-**Frameworks**: React · Next.js · Node.js  
-**Blockchain**: Ethereum · Solana · Coinbase Base · BSC  
-**Specialties**: AI Agents · DeFi Protocols · Smart Contracts · Manufacturing Systems
 
 ---
 
 ## 🚀 Core Capabilities
 
-**Product Leadership** - CTO-level execution with product ownership mindset  
-**Technical Depth** - From blockchain protocols to AI agents to manufacturing systems  
-**Market Mastery** - Expert in branding, messaging, positioning, and GTM  
-**Global Network** - VCs, market makers, CEX executives across 25+ countries
+**Forward Deployed Engineering** - Embedding with customers to ship tailored AI solutions.  
+**AI Platform Architecture** - Designing scalable, secure infrastructure for LLM applications.  
+**Developer Experience** - Building intuitive SDKs, CLIs, and tools that accelerate engineering velocity.  
+**Solution Engineering** - Translating complex technical capabilities into clear business value.
 
 ---
 
 ## 📊 Featured Projects
 
+[![Strykr AI](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=strykr-prism-api&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://strykr.ai)
+[![ai-pdf-builder](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=ai-pdf-builder&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://www.npmjs.com/package/ai-pdf-builder)
 [![AgentPayy](https://github-readme-stats.vercel.app/api/pin/?username=AgentPayy&repo=AgentPayy&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/AgentPayy/AgentPayy)
-[![YLD9](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=YLD9&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/dlhugly/YLD9)
-[![StableSwap](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=StableSwap&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/dlhugly/StableSwap)
-[![digitallawrence](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=digitallawrence&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/dlhugly/digitallawrence)
+[![ClawdGuard](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=ClawdGuard&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/dlhugly/ClawdGuard)
 
 ---
 
 ## 💡 Open To
 
-**Tactical Projects** - Quick deliverables from $5K (whitepapers, audits, tokenomics)
-
-**Strategic Partnerships** - Product builds $50K-$150K+ (zero-to-one, architecture, GTM)
-
-**CTO Roles** - Technical leadership for ambitious teams
-
-**Co-Founding** - Visionary ventures in tech, AI, manufacturing, emerging industries
+**Forward Deployed Engineering** - High-impact roles deploying AI to strategic customers.  
+**Solutions Engineering** - Technical architecture and pre-sales for complex platforms.  
+**AI Platform Engineering** - Building the infrastructure that powers the next generation of apps.  
 
 ---
 
 ## 📫 Let's Connect
 
-**Twitter**: [@digitallawrence](https://x.com/digitallawrence)  
-**Portfolio**: [digitallawrence.com](https://github.com/dlhugly/digitallawrence) *(deploy soon)*
-
-Looking for partners who think in decades, not quarters.
-
----
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-**Renaissance technologist combining technical mastery, branding expertise, market research, and team leadership.**
-
-*Currently expanding from Web2/Web3/AI into manufacturing and robotics.*
-
+*Building the future of AI agents and secure infrastructure.*
