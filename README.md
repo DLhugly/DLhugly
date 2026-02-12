@@ -55,15 +55,6 @@ Global           experience deploying systems across 25+ countries
 
 ---
 
-## 📊 Featured Projects
-
-[![Strykr AI](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=strykr-prism-api&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://strykr.ai)
-[![ai-pdf-builder](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=ai-pdf-builder&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://www.npmjs.com/package/ai-pdf-builder)
-[![AgentPayy](https://github-readme-stats.vercel.app/api/pin/?username=AgentPayy&repo=AgentPayy&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/AgentPayy/AgentPayy)
-[![ClawdGuard](https://github-readme-stats.vercel.app/api/pin/?username=dlhugly&repo=ClawdGuard&theme=dark&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=06b6d4)](https://github.com/dlhugly/ClawdGuard)
-
----
-
 ## 💡 Open To
 
 **Forward Deployed Engineering** - High-impact roles deploying AI to strategic customers.  
