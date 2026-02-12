@@ -4,9 +4,6 @@
 
 Building enterprise-grade AI agents, scalable infrastructure, and developer tools. Specializing in deploying large language models (LLMs) to production and bridging the gap between complex engineering and business value.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/digitallawrence?style=social)](https://x.com/digitallawrence)
-[![GitHub followers](https://img.shields.io/github/followers/dlhugly?style=social)](https://github.com/dlhugly)
-
 ---
 
 ## 🎯 What I Build
