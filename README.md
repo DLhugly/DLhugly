@@ -1,68 +1,15 @@
-# 👋 James Lawrence
+# James Lawrence
 
-**Forward Deployed Engineer · AI Architect · Technical Founder**
+**Forward-Deployed AI Engineer | Founding CTO | Ships 0-to-1 at Scale**
 
-Building enterprise-grade AI agents, scalable infrastructure, and developer tools. Specializing in deploying large language models (LLMs) to production and bridging the gap between complex engineering and business value.
+Building agent-native production systems across web, mobile, and desktop. Agentic RAG, multi-agent LangGraph/CrewAI, LLMOps, and full-stack shipping (Python, FastAPI, TypeScript, React, Rust, Tauri).
 
----
+CTO @ Strykr AI — 170,000+ users, 300+ production APIs, 13+ microservices.
 
-## 🎯 What I Build
+### Pinned Projects
+- **Clif-Code** — Privacy-first terminal coding agent (Claude + Ollama, Rust/Tauri/SolidJS)
+- **Volatility Archetypes** — 6 volatility regimes, 76% SELL VOL accuracy, +18pp over GARCH
+- **Vault-0** — AI agent security layer (AES-256-GCM + Argon2id, Rust/Tauri)
+- **AgentPayy** — Agent-native x402/USDC payments on Base L2
 
-**Strykr.AI** - CTO & Co-Founder  
-Enterprise financial intelligence platform serving 170,000+ users. Built multi-agent systems using Anthropic Claude & OpenAI to process real-time market data.
-
-**ClawdGuard** - Lead Architect  
-Security-hardened deployment framework for AI agents. "Shodan-proof" network topology, identity management, and secure infrastructure for autonomous systems.
-
-**ai-pdf-builder** - Co-Author  
-Open-source TypeScript library for AI-powered document generation. Programmatic PDF creation using LLMs.
-
-**AgentPayy** - Creator  
-Agent-native payment framework allowing AI systems to autonomously transact.
-
-**SocialPass** - Lead Architect  
-High-scale event identity platform handling 5,000+ attendees. Integrated real-time asset verification with seamless user onboarding.
-
----
-
-## 🛠️ Technical Stack
-
-**AI & Agents**: Anthropic Claude (MCP) · OpenAI GPT-4 · RAG · LangChain · Vector DBs  
-**Languages**: Python (FastAPI) · TypeScript (Node.js, React) · Rust · Go  
-**Infrastructure**: Docker · Kubernetes · Railway · Vercel · AWS · Terraform  
-**Security**: OAuth2 · HMAC-SHA256 · Row Level Security (RLS) · Prompt Injection Mitigation  
-
----
-
-## 💼 Track Record
-
-```
-7 years          shipping production software
-170,000+ users   served on Strykr AI platform
-38+ repos        across 18+ organizations
-$400M+ value     processed in previous fintech protocols
-Global           experience deploying systems across 25+ countries
-```
-
----
-
-## 🚀 Core Capabilities
-
-**Forward Deployed Engineering** - Embedding with customers to ship tailored AI solutions.  
-**AI Platform Architecture** - Designing scalable, secure infrastructure for LLM applications.  
-**Developer Experience** - Building intuitive SDKs, CLIs, and tools that accelerate engineering velocity.  
-**Solution Engineering** - Translating complex technical capabilities into clear business value.
-
----
-
-## 💡 Open To
-
-**Forward Deployed Engineering** - High-impact roles deploying AI to strategic customers.  
-**Solutions Engineering** - Technical architecture and pre-sales for complex platforms.  
-**AI Platform Engineering** - Building the infrastructure that powers the next generation of apps.  
-
----
-
-## 📫 Let's Connect
-
-*Building the future of AI agents and secure infrastructure.*
+U.S. Citizen | Open to Relocation (SF/NY)
