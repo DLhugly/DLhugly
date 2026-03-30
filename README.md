@@ -1,7 +1,7 @@
 # James Lawrence
 
-**Forward-Deployed AI Engineer | Founding CTO | Ships 0-to-1 at Scale**
+**Principal AI Engineer | Open Source Builder | Ships Production AI at Scale**
 
-Building agent-native production systems across web, mobile, and desktop. Agentic RAG, multi-agent LangGraph/CrewAI, LLMOps, and full-stack shipping (Python, FastAPI, TypeScript, React, Rust, Tauri).
+Creator of ClifCode (AI code editor, 667+ downloads), Volatility Archetypes (+17pp over benchmarks, 75.7% accuracy), AgentPayy (agent-native payments). Agentic RAG, multi-agent systems, LLMOps, full-stack (Python, FastAPI, TypeScript, React, Rust).
 
-CTO @ Strykr AI — 170,000+ users, 300+ production APIs, 13+ microservices.
+Founding Engineer @ Strykr AI — 170k+ users, 300+ APIs, 13+ microservices, thousands of daily agentic LLM calls.
